@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3845" started-at="2021-02-17T17:25:49Z" finished-at="2021-02-17T17:25:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3845" started-at="2021-02-17T17:25:49Z" finished-at="2021-02-17T17:25:53Z">
+      <class name="com.rmgtest.project.GetOprationTest">
+        <test-method status="PASS" signature="createTest()[pri:0, instance:com.rmgtest.project.GetOprationTest@5442a311]" name="createTest" duration-ms="3068" started-at="2021-02-17T17:25:49Z" finished-at="2021-02-17T17:25:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createTest -->
+        <test-method status="PASS" signature="getTest()[pri:1, instance:com.rmgtest.project.GetOprationTest@5442a311]" name="getTest" duration-ms="188" started-at="2021-02-17T17:25:52Z" finished-at="2021-02-17T17:25:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTest -->
+        <test-method status="PASS" signature="putTest()[pri:2, instance:com.rmgtest.project.GetOprationTest@5442a311]" name="putTest" duration-ms="7" started-at="2021-02-17T17:25:53Z" finished-at="2021-02-17T17:25:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putTest -->
+        <test-method status="PASS" signature="deletTest()[pri:3, instance:com.rmgtest.project.GetOprationTest@5442a311]" name="deletTest" duration-ms="474" started-at="2021-02-17T17:25:53Z" finished-at="2021-02-17T17:25:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletTest -->
+      </class> <!-- com.rmgtest.project.GetOprationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
